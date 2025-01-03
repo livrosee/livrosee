@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @livrosee
 - 👀 I’m interested in great cuisine, hiking, and painting!
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on nothing, as of right now. But please reach out if you're looking to collab!
+- 🌱 I’m currently learning Java, C, and Python.
+- 💞️ Please reach out if you're looking to collab!
 - 📫 How to reach me www.linkedin.com/in/olivia-morales-280085232
 
 <!---
